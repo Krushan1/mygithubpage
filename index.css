@@ -1,31 +1,49 @@
 
 #section1 {
-	padding-top:50px;height:500px;color: #fff  ; background-color: #1E88E5;
+	padding-top:50px;height:500px;color: #fff; 
 	text-align: center;
 
 }
+#section1:hover {
+	background-color: #1E88E5;
+}
   #section2 {
-  	padding-top:50px;height:500px;color: #fff; background-color: #673ab7;
+  	padding-top:50px;height:500px;color: #fff; 
   	text-align: center;
 
+  }
+  #section2:hover{
+  	background-color: #673ab7;
   }
   #section3 {
  	
-  	padding-top:50px;height:500px;color: #fff; background-color: #ff9800;
+  	padding-top:50px;height:500px;color: #fff; 
   	text-align: center;
 
   }
+  #section3:hover{
+  	background-color: #ff9800;
+  }
   #section41 {
-  	padding-top:50px;height:500px;color: #fff; background-color: #00bcd4;
+  	padding-top:50px;height:500px;color: #fff; 
   	text-align: center;
   }
+	#section41:hover{
+  background-color: #00bcd4;
+}
   #section42 {
-  	padding-top:50px;height:500px;color: #fff; background-color: #009688;
+  	padding-top:50px;height:500px;color: #fff; 
   	text-align: center;
+  }
+  #section42:hover{
+  	background-color: #009688;
   }
   #section43 {
-  	padding-top:50px;height:500px;color: #fff; background-color: #705277;
+  	padding-top:50px;height:500px;color: #fff; 
   	text-align: center;
+  }
+  #section43:hover{
+  	background-color: #705277;
   }
 #section1, #section2, #section3, #section41, #section42, #section43{
 	font-size: 20px;
@@ -35,9 +53,9 @@ h1{
 	font-size: 45px;
 	color: greenyellow;
 }
-.hid{
+/*.hid{
 	display: none;
 }
 .contact:hover + .hid{
 	display: block;
-}
+}*/
