@@ -2,56 +2,89 @@
 #section1 {
 	padding-top:50px;height:500px;color: #fff; 
 	text-align: center;
+  background-color: #1E88E5;
 
 }
 #section1:hover {
-	background-color: #1E88E5;
+	
 }
   #section2 {
   	padding-top:50px;height:500px;color: #fff; 
   	text-align: center;
+    background-color: #673ab7;
 
   }
   #section2:hover{
-  	background-color: #673ab7;
+  	
   }
   #section3 {
  	
   	padding-top:50px;height:500px;color: #fff; 
   	text-align: center;
-
+    background-color: #ff9800;
   }
   #section3:hover{
-  	background-color: #ff9800;
+  	
   }
   #section41 {
   	padding-top:50px;height:500px;color: #fff; 
   	text-align: center;
+    background-color: #51bcd6;
   }
 	#section41:hover{
-  background-color: #00bcd4;
+  
 }
   #section42 {
   	padding-top:50px;height:500px;color: #fff; 
   	text-align: center;
+    background-color: #009688;
   }
   #section42:hover{
-  	background-color: #009688;
+  	
   }
   #section43 {
   	padding-top:50px;height:500px;color: #fff; 
   	text-align: center;
+    background-color: #705277;
   }
   #section43:hover{
-  	background-color: #705277;
+  	
   }
 #section1, #section2, #section3, #section41, #section42, #section43{
 	font-size: 20px;
 }
 h1{
-	display: inline;
+
 	font-size: 45px;
 	color: greenyellow;
+  text-align: center;
+}
+
+#link{
+  align-items: center;
+  margin-left: 35%;
+  border: 3px solid red;
+  width: 30%;
+  text-align: center;
+  line-height: 4.8em;
+  font-size: 36px;
+  background: #222;
+}
+footer{
+  font-size: 25px;
+  background: #444;
+  text-align: center;
+  margin-top: 8px;
+  color: white;
+}
+.about{
+  text-align: center;
+  line-height: 4em;
+  font-size: 20px;
+  color: white;
+}
+.about a{
+  color: red;
 }
 /*.hid{
 	display: none;
