@@ -66,9 +66,20 @@ h1{
   border: 3px solid red;
   width: 30%;
   text-align: center;
-  line-height: 4.8em;
+  line-height: 3.6em;
   font-size: 36px;
   background: #222;
+}
+#course{
+   align-items: center;
+  
+  border: 3px solid red;
+  width: 100%;
+  text-align: center;
+  line-height: 1.1em;
+  font-size: 36px;
+  background: #555;
+  color: white;
 }
 footer{
   font-size: 25px;
